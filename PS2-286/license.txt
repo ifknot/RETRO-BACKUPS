@@ -1,0 +1,93 @@
+            IBM PERSONAL SYSTEM/2 REFERENCE/OPTION DISKETTE                                     
+	          LICENSE REVISION VERSION 4.3 9/11/91                         
+
+			  NOTICE TO CUSTOMERS                                 
+                 IBM SYSTEM PROGRAMS LICENSE AGREEMENT                         
+
+    BEFORE DOWNLOADING REFERENCE DISKETTES, YOU SHOULD CAREFULLY READ         
+    THE FOLLOWING ITEMS AND CONDITIONS.  DOWNLOADING REFERENCE DISKETTES      
+    OR INITIAL USE OF THE SYSTEM PROGRAMS INDICATES YOUR ACCEPTANCE OF        
+    THESE TERMS AND CONDITIONS.                                                                                                                             
+
+
+    LICENSE      
+    
+    This is a License Agreement for IBM System Programs which are             
+    provided on the enclose IBM Reference Option Diskette(s), or may be       
+    recorded on other media included in this package, or on the IBM           
+    Systems ("System(s)").  IBM may also include other programs with          
+    this System which may be licensed under different terms and               
+    conditions that accompany these programs.  International Business         
+    Machines Corporation ("IBM") owns the System Programs.                    
+ 
+    The System Programs are protected by copyright and are licensed not       
+    sold.  If you are a rightful possessor of a System, or if you have        
+    obtained System Programs for the purpose of maintaining a System,         
+    IBM or the applicable IBM country organization, grants you a license      
+    to use the System Program as part of or in conjunction with a Sys-        
+    tem, or to resotre and maintain the System Programs.  You obtain no       
+    rights other than those granted to you under this license.  IBM           
+    retains title to the System Programs and all copyies you make of          
+    them.                                                                                                                                                   
+
+    This License authorizes you to:                                        
+ 
+    1). use, as identified in the IBM System documentation and modify or      
+        adapt only the SETUP and OPTION ADAPTER DESCRIPTION FILES             
+        (@XXXX.ADF) to enable a System to operate in accordance with          
+        IBM's Official Published Specifications and to restore and            
+        maintain a System; and                                                
+    2). copy the Systems Program for backup, or archival purposes; and        
+    3). make copies of the System Programs and distribute them to a           
+        rightful possessor of a System and to install the System Pro-         
+        grams for a rightful possessor of a System, but only to the           
+        extent necessary to restore or maintain Systems; provided that        
+        you supply such party a copy of this license agreement.  Initial      
+        use of the System programs by such party shall indicate accep-        
+        tance of this license agreement. YOU MUST REPRODUCE THE IBM           
+        COPYRIGHT NOTICE AND ANY LEGENDS ON EACH COPY OF THE SYSTEM           
+        PROGRAMS YOU CREATE; and                                              
+    4). transfer possession of these System Programs and this Reference/      
+        Option Diskette to another party in conjunction with the trans-       
+        fer of a System Option; provided that you supply a copy of this       
+        License agreement to such party.  Initial use of these System         
+        Programs by such party shall indicate acceptance of this license      
+        agreement.  Such transfer of possession of the System Programs        
+        and Reference/Option diskette shall terminate your license from       
+        IBM, and you must, at the same time, either transfer to such          
+        party or destroy all your other copies of the System Programs.        
+ 
+    You may NOT:                                                               
+
+    1). use, merge, copy, display, adapt, modify, execute, distribute or      
+        transfer the System Programs, except as authorized by this            
+        license; or                                                           
+    2). reverse assemble, reverse compile, decode, or translate the           
+        System Programs.                                                                                                                                    
+
+    Any attempt to sublicense, rent lease, assign or to transfer System       
+    Programs, except as expressly provided by this license is hereby          
+    rendered null and void.                                                   
+                                                                           
+
+    WARRANTY                                                                                                                                              
+
+    IBM warrants the System Programs in accordance with the Statement of      
+    Limited Warranty that accompanied your System or Option which is          
+    hereby incorporated by reference.                                         
+
+ 
+    GENERAL                                                                    
+ 
+    You may terminate your license at any time.  IBM may terminate your       
+    license if you fail to comply with the terms and conditions of this       
+    License Agreement.  In either event, you must destroy all your            
+    copies of the System Programs.  You are responsible for the payment       
+    of any taxes, including personal property taxes, resulting from this      
+    Agreement. Neither party may bring an action, regardless of form,         
+    more than two years after the cause of action arose.  If you acquire      
+    the System Programs in the United States, this License is governed        
+    by the laws of the State of New York.  If you acquired the System         
+    Programs in Canada, this license is governed by the laws of the           
+    Province of Ontario. Otherwise, this license is governed by the laws      
+    of the country in which you acquired the System Programs.                 
