@@ -1,6 +1,7 @@
 # DOS disk backups
 
 - [ ] Windows 3.00 
+- [ ] Amstrad PPC 640/512 
 - [ ] IBM PCDOS 5.0
 - [ ] IBM PCDOS 4.0
 - [ ] IBM PCDOS 3.3
