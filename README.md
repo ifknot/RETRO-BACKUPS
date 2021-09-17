@@ -1,8 +1,8 @@
 # Retro Software - disk backups
 
-- [ ] Windows 3.00 
-- [ ] Amstrad PPC 640/512 
-- [ ] IBM PS/2 Model 30 (8086) 
+- [x] Windows 3.00 
+- [x] Amstrad PPC 640/512 
+- [x] IBM PS/2 Model 30 (8086) 
 - [ ] IBM PS/2 Model 30 (286) 
 - [ ] IBM PCDOS 5.0
 - [ ] IBM PCDOS 4.0
