@@ -1,4 +1,4 @@
-# DOS disk backups
+# Retro Software - disk backups
 
 - [ ] Windows 3.00 
 - [ ] Amstrad PPC 640/512 
