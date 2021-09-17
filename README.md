@@ -1,2 +1,11 @@
-# Windows-3.0
-Microsoft Windows Graphical Environment  8/1/1991 AV 3.00
+# DOS disk backups
+
+[x] Windows 3.00 
+[ ] IBM PCDOS 5.0
+[ ] IBM PCDOS 4.0
+[ ] IBM PCDOS 3.3
+[ ] IBM PCDOS 2.0
+[ ] DR CP/M-86
+
+
+
